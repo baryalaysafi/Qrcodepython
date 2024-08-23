@@ -3,3 +3,4 @@ You can integrate this into your website, business card, or other digital platfo
 This code will generate a QR code for your GitHub profile and save it as github_profile_qr.png. The design remains clean and professional with a simple black-and-white color scheme, suitable for professional settings.
 
 Let me know if you'd like any adjustments!
+Scan this QR code to connect on LinkedIn and discover my skills in web development and data analytics.
